@@ -1,0 +1,16 @@
+/* FORM */
+
+.form-container{
+    margin: 20rem;
+    background-color: #184d47;
+    padding: 10% 15%;
+    text-align: center;
+  }
+  
+  .form-containerf{
+    position: absolute;
+    z-index: 1;
+    left: 50%;
+    top: 50%;
+  }
+  
