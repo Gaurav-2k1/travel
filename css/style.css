@@ -1,5 +1,5 @@
-body{
-  background-color: #F6F6F6;
+body {
+  background-color: #f6f6f6;
 }
 /* navbar */
 .navbar {
@@ -124,6 +124,34 @@ body{
   text-align: center;
 }
 
-.btn{
+.btn {
   background-color: #184d47;
+}
+
+#contact {
+  margin: 10% 0 0%;
+  padding: 3% 5%;
+  background-color: #184d47;
+  max-height: 30rem!important;
+  text-align: center;
+  color: white;
+}
+
+.profileimg{
+  clip-path: circle();
+  width: 20%;
+  margin: 4.5%;
+}
+
+.icon {
+  position: relative;
+  z-index: 1;
+  margin: 10px;
+  bottom: 20px;
+  size: 2rem;
+  color: white;
+}
+
+.icon:hover{
+  color: blue;
 }
