@@ -1,16 +1,18 @@
 /* FORM */
+.container-fluid {
+  margin: 0% 10%;
+}
+body {
+  margin: 10%;
+  text-align: center;
+  align-items: center;
+}
 
-.form-container{
-    margin: 20rem;
-    background-color: #184d47;
-    padding: 10% 15%;
-    text-align: center;
-  }
-  
-  .form-containerf{
-    position: absolute;
-    z-index: 1;
-    left: 50%;
-    top: 50%;
-  }
-  
+.card {
+  left: 40%;
+  text-align: left !important;
+  position: absolute;
+  padding: 10%;
+  color: black;
+  max-width: 67rem;
+}

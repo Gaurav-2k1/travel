@@ -6,6 +6,9 @@ h2 {
   font-family: "Niconne", cursive;
   font-size: 3rem;
 }
+h6{
+  text-align: center;
+}
 /* navbar */
 
 .logoimage {
@@ -103,7 +106,7 @@ h2 {
   position: absolute;
   z-index: 1;
   left: 20%;
-  top: 40%;
+  top: 20%;
   align-content: center;
 }
 
@@ -127,6 +130,12 @@ h2 {
   opacity: 0.6;
   color: black;
 }
+
+.img-info{
+  padding: 0 5%; 
+  font-size: 1rem;
+  font-weight: 500;
+}
 /* Package */
 
 #packages {
@@ -140,14 +149,12 @@ h2 {
 
 #contact {
   margin: 10% 0 0%;
-  padding: 3% 5% ;
+  padding: 3% 5%;
   background-color: #184d47;
   max-height: 41rem !important;
   text-align: center;
   color: white;
 }
-
-
 
 .profileimg {
   clip-path: circle();
@@ -168,3 +175,6 @@ h2 {
   color: blue;
 }
 
+.creater {
+  margin: 0 0px;
+}
